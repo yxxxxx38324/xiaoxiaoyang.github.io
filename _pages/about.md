@@ -41,9 +41,8 @@ Advisor: Prof. Yang
 
 Worked on *BAANet: Learning Bi-directional Adaptive Attention Gates for Multispectral Pedestrian Detection* as the first author. (Oct 2020 - Oct 2021)
 
-- Proposed a novel multispectral pedestrian detector called BAANet. With the proposed BAA-Gate, the network could distill and recalibrate features of two modalities by stages and enhance the discriminability of fused representations.
+- Proposed a novel multispectral pedestrian detector, i.e., BAANet,to distill and recalibrate features of two modalities by stages and enhance the discriminability of fused representations.
 - Introduced an adaptive interaction strategy based on illumination weighting to adaptively control the recalibration and aggregation strength between modalities and adjust their contributions to the final detection results.
-- Conducted experiments and showed the competitive performance of the BAANet in terms of robustness and accuracy.
 
 </div>
 </div>
@@ -59,7 +58,6 @@ Worked on *Learning Consistency Pursued Correlation Filters for Real-Time UAV Tr
 
 - Proposed to pursue consistency of correlation filters across frames, which exploited rich temporal information in response maps and boosted the accuracy and robustness in the UAV tracking process.
 - Introduced a dynamic constraint strategy to set up an adaptive restriction on the consistency level. Based on the quality of the previous response map, the dynamic constraint can adaptively adjust a suitable consistency level and further increases the flexibility to cope with object appearance changes in UAV tracking.
-- Conducted experiments on challenging UAV datasets and demonstrated that the proposed tracker favorably surpasses the state-of-the-art trackers with real-time running speed (~43FPS) on a single CPU.
 </div>
 </div>
 
