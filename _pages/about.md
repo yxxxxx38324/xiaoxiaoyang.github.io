@@ -31,7 +31,7 @@ I am currently pursung my master degree candidate in the Department of Automatio
 - *[BAANet: Learning Bi-directional Adaptive Attention Gates for Multispectral Pedestrian Detection](https://ieeexplore.ieee.org/abstract/document/9811999),* **X. Yang**, Y. Qian, H. Zhu, C. Wang and M. Yang, **2022 International Conference on Robotics and Automation (ICRA)**, 2022
 - *[Learning Consistency Pursued Correlation Filters for Real-Time UAV Tracking](https://ieeexplore.ieee.org/document/9340954)*, C. Fu, **X. Yang**, F. Li, J. Xu, C. Liu and P. Lu, **2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**, 2020
 
-# 🔬 **Research Experience**
+# 🔬 Research Experience
 
 ### CyberC3 Intelligent Vehicle Lab (Oct 2020 - Oct 2021)
 
@@ -65,22 +65,22 @@ Worked on *Learning Consistency Pursued Correlation Filters for Real-Time UAV Tr
 
  
 
-# 🚗 **Industry Experience**
+# 🚗 Industry Experience
 
 ## Horizon Robotics
-**Prediction Algorithm Intern - Platform Technology Department          Apr 2023 - Present** 
+Prediction Algorithm Intern - Platform Technology Department          Apr 2023 - Present
 
 - Researching and designing an interaction-aware prediction model for an end-to-end prediction-guided planning framework to improve the performance of planning of autonomous vehicle in highly interactive scenarios. The closed-loop simulation in Carla simulator will be carried out later to verify the effectiveness.
 
 ## QCraft (QingZhouZhiHang Technology Co. LTD)
-**Prediction Algorithm Intern - Planning and Control Department          Jan 2023 - Apr 2023** 
+Prediction Algorithm Intern - Planning and Control Department          Jan 2023 - Apr 2023
 
 - Designed and implemented a prediction model for cut-in scenes to solve the problem that the deployed main model does not predict the inconspicuous cut-in vehicles in time.
 - Proposed cutin-oriented features and transformer-based model for cut-in prediction task, conducted predictions in Frenet coordinate system, and improved the sensitivity and the robustness of prediction.
 - Deployed the prediction model on the Nvidia Orin platform, and its inference time is 4ms, with a precision of 0.93 and a recall of 0.84, effectively assisting the main prediction model and avoiding high-risk cut-in behaviors of other vehicles in advance.
 
 ## Sensetime
-**Decision-making Algorithm Intern - SenseAuto / Planning and Control Department           Jan 2022- Nov 2022**
+Decision-making Algorithm Intern - SenseAuto / Planning and Control Department           Jan 2022- Nov 2022
 
 - Optimization of VRU avoidance decision strategy
   - The original decision strategy of VRU avoidance is overly conservative and easily leads to emergency braking. Optimized the avoidance rules according to traffic rules and VRU interaction logic and nearly doubles the MPI.
@@ -91,7 +91,7 @@ Worked on *Learning Consistency Pursued Correlation Filters for Real-Time UAV Tr
 
 ## NIO
 
-**Perception Algorithm Intern - Autonomous Driving System / Platform Engineering Department          May 2021- Aug 2021**  
+Perception Algorithm Intern - Autonomous Driving System / Platform Engineering Department          May 2021- Aug 2021
 
 - Participated in the design and implementation of the evaluation system for AVP (Automated Valet Parking)  perception algorithm, including the introduction of new metrics, scenario classification and test set construction.
 
