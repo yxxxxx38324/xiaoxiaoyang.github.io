@@ -33,7 +33,7 @@ I am currently pursuing my master's degree in the Department of Automation, SEIE
 
 # 🔬 Research Experience
 
-## CyberC3 Intelligent Vehicle Lab 
+## CyberC3 Intelligent Vehicle Lab, Shanghai Jiao Tong University
 <div class='paper-box'><div class='paper-box-image'><img src='images/BAANet.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">  
 Advisor: Prof. Yang
@@ -45,7 +45,7 @@ Worked on *BAANet: Learning Bi-directional Adaptive Attention Gates for Multispe
 </div>
 </div>
 
-## Vision4Robotics Lab 
+## Vision4Robotics Lab, Tongji University
 <div class='paper-box'><div class='paper-box-image'><img src='images/CPCF.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">  
 Advisor: Prof. Fu
