@@ -33,14 +33,13 @@ I am currently pursung my master degree candidate in the Department of Automatio
 
 # 🔬 Research Experience
 
-### CyberC3 Intelligent Vehicle Lab (Oct 2020 - Oct 2021)
-
+## CyberC3 Intelligent Vehicle Lab 
 <div class='paper-box'><div class='paper-box-image'><img src='images/BAANet.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">  
 
 Advisor: Prof. Yang
 
-Worked on *BAANet: Learning Bi-directional Adaptive Attention Gates for Multispectral Pedestrian Detection* as the first author.
+Worked on *BAANet: Learning Bi-directional Adaptive Attention Gates for Multispectral Pedestrian Detection* as the first author. (Oct 2020 - Oct 2021)
 
 - Proposed a novel multispectral pedestrian detector called BAANet. With the proposed BAA-Gate, the network could distill and recalibrate features of two modalities by stages and enhance the discriminability of fused representations.
 - Introduced an adaptive interaction strategy based on illumination weighting to adaptively control the recalibration and aggregation strength between modalities and adjust their contributions to the final detection results.
@@ -48,16 +47,14 @@ Worked on *BAANet: Learning Bi-directional Adaptive Attention Gates for Multispe
 
  
 
-## Vision4Robotics Lab (Oct 2019 - Oct 2020)
+## Vision4Robotics Lab 
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/CPCF.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">  
 
-
-
 Advisor: Prof. Fu
 
-Worked on *Learning Consistency Pursued Correlation Filters for Real-Time UAV Tracking* as the second author.
+Worked on *Learning Consistency Pursued Correlation Filters for Real-Time UAV Tracking* as the second author. (Oct 2019 - Oct 2020)
 
 - Proposed to pursue consistency of correlation filters across frames, which exploited rich temporal information in response maps and boosted the accuracy and robustness in the UAV tracking process.
 - Introduced a dynamic constraint strategy to set up an adaptive restriction on the consistency level. Based on the quality of the previous response map, the dynamic constraint can adaptively adjust a suitable consistency level and further increases the flexibility to cope with object appearance changes in UAV tracking.
@@ -65,7 +62,7 @@ Worked on *Learning Consistency Pursued Correlation Filters for Real-Time UAV Tr
 
  
 
-# 🚗 Industry Experience
+# 🚗 Internships
 
 ## Horizon Robotics
 Prediction Algorithm Intern - Platform Technology Department          Apr 2023 - Present
