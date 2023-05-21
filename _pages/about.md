@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing my master's degree in the Department of Automation, SEIEE, Shanghai Jiao Tong University. I am part of the  [CyberC3 Intelligent Vehicle Lab](https://cyberc3.sjtu.edu.cn), led by [Prof. Ming Yang](https://cyberc3.sjtu.edu.cn/people.htm). My research interests include autonomous driving, robotics, and machine learning.
+I am currently pursuing my master's degree in the Department of Automation, SEIEE, Shanghai Jiao Tong University. I am part of the  [CyberC3 Intelligent Vehicle Lab](https://cyberc3.sjtu.edu.cn), led by [Prof. Ming Yang](https://cyberc3.sjtu.edu.cn/people.htm). My research interests include applications of deep learning to perception, prediction, and decision making in autonomous driving.
 
 # 📖 Education
 - *2021.09 - 2024.03*, Shanghai Jiao Tong University
