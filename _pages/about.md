@@ -38,10 +38,9 @@ I am currently pursuing my master's degree in the Department of Automation, SEIE
 <div class='paper-box-text' markdown="1">  
 Advisor: Prof. Yang
 Worked on *BAANet: Learning Bi-directional Adaptive Attention Gates for Multispectral Pedestrian Detection* as the first author. (Oct 2020 - Oct 2021)
-
 - Proposed a novel multispectral pedestrian detector, i.e., BAANet,to distill and recalibrate features of two modalities by stages and enhance the discriminability of fused representations.
 - Introduced an adaptive interaction strategy based on illumination weighting to adaptively control the recalibration and aggregation strength between modalities and adjust their contributions to the final detection results.
-  </div>
+</div>
 </div>
 
 ## Vision4Robotics Lab, Tongji University
