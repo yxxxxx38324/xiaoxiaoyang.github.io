@@ -59,7 +59,10 @@ Worked on *Learning Consistency Pursued Correlation Filters for Real-Time UAV Tr
 # 🚗 Internships
 
 ## Horizon Robotics
-Prediction Algorithm Intern - Platform Technology Department          Apr 2023 - Present
+<div style="text-align: left;">Prediction Algorithm Intern - Platform Technology Department </div>
+<div style="text-align: right;">Apr 2023 - Present</div>
+
+<!-- Prediction Algorithm Intern - Platform Technology Department          (Apr 2023 - Present -->
 
 - Researching and designing an interaction-aware prediction model for an end-to-end prediction-guided planning framework to improve the performance of planning of autonomous vehicle in highly interactive scenarios. The closed-loop simulation in Carla simulator will be carried out later to verify the effectiveness.
 
