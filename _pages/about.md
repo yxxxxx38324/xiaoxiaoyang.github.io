@@ -34,7 +34,7 @@ I am currently pursuing my master's degree in the Department of Automation, SEIE
 # 🔬 Research Experience
 
 ## CyberC3 Intelligent Vehicle Lab, Shanghai Jiao Tong University
-<!-- <div class='paper-box'> -->
+<div class='paper-box'>
   <div class='paper-box-image'>
     <img src='images/BAANet.png' alt="sym" width="100%">
   </div>
@@ -45,7 +45,7 @@ I am currently pursuing my master's degree in the Department of Automation, SEIE
     - Proposed a novel multispectral pedestrian detector, i.e., BAANet,to distill and recalibrate features of two modalities by stages and enhance the discriminability of fused representations.
     - Introduced an adaptive interaction strategy based on illumination weighting to adaptively control the recalibration and aggregation strength between modalities and adjust their contributions to the final detection results.
   </div>
-<!-- </div> -->
+</div>
 
 ## Vision4Robotics Lab, Tongji University
 <div class='paper-box'><div class='paper-box-image'><img src='images/CPCF.png' alt="sym" width="100%"></div>
