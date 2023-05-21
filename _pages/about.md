@@ -66,25 +66,24 @@ Worked on *Learning Consistency Pursued Correlation Filters for Real-Time UAV Tr
     <span style="float: right;">Apr 2023 - Present</span> <br>
 </p>
 
-
-<table>
-  <tr>
-    <td style="text-align: left;">Prediction Algorithm Intern - Platform Technology Department</td>
-    <td style="text-align: right;">Apr 2023 - Present</td>
-  </tr>
-</table>
-
 - Researching and designing an interaction-aware prediction model for an end-to-end prediction-guided planning framework to improve the performance of planning of autonomous vehicle in highly interactive scenarios. The closed-loop simulation in Carla simulator will be carried out later to verify the effectiveness.
 
 ## QCraft (QingZhouZhiHang Technology Co. LTD)
-Prediction Algorithm Intern - Planning and Control Department          Jan 2023 - Apr 2023
+
+<p>
+    <span style="float: left;">Prediction Algorithm Intern - Planning and Control Department</span>
+    <span style="float: right;">Jan 2023 - Apr 2023</span> <br>
+</p>
 
 - Designed and implemented a prediction model for cut-in scenes to solve the problem that the deployed main model does not predict the inconspicuous cut-in vehicles in time.
 - Proposed cutin-oriented features and transformer-based model for cut-in prediction task, conducted predictions in Frenet coordinate system, and improved the sensitivity and the robustness of prediction.
 - Deployed the prediction model on the Nvidia Orin platform, and its inference time is 4ms, with a precision of 0.93 and a recall of 0.84, effectively assisting the main prediction model and avoiding high-risk cut-in behaviors of other vehicles in advance.
 
 ## Sensetime
-Decision-making Algorithm Intern - SenseAuto / Planning and Control Department           Jan 2022- Nov 2022
+<p>
+    <span style="float: left;">Decision-making Algorithm Intern - SenseAuto / Planning and Control Department</span>
+    <span style="float: right;">Jan 2022- Nov 2022</span> <br>
+</p>
 
 - Optimization of VRU avoidance decision strategy
   - The original decision strategy of VRU avoidance is overly conservative and easily leads to emergency braking. Optimized the avoidance rules according to traffic rules and VRU interaction logic and nearly doubles the MPI.
@@ -94,8 +93,10 @@ Decision-making Algorithm Intern - SenseAuto / Planning and Control Department  
   - Designed and implemented a model-based reasoning module due to the increasing difficulty of rule maintenance. Collected abnormal parking vehicle datasets by a rule-based trigger, designed abnormal parking vehicle features and trained on the random forest algorithm, and obtained the precision of abnormal vehicle reasoning as 0.95 and the recall of 0.85.
 
 ## NIO
-
-Perception Algorithm Intern - Autonomous Driving System / Platform Engineering Department          May 2021- Aug 2021
+<p>
+    <span style="float: left;">Perception Algorithm Intern - Autonomous Driving System / Platform Engineering Department</span>
+    <span style="float: right;">May 2021- Aug 2021</span> <br>
+</p>
 
 - Participated in the design and implementation of the evaluation system for AVP (Automated Valet Parking)  perception algorithm, including the introduction of new metrics, scenario classification and test set construction.
 
