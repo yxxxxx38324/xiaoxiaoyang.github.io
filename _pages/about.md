@@ -63,9 +63,9 @@ Worked on *Learning Consistency Pursued Correlation Filters for Real-Time UAV Tr
 
 <p>
     <span style="float: left;">Prediction Algorithm Intern - Platform Technology Department</span>
-    <span style="float: right;">Apr 2023 - Present</span> <br>
+    <span style="float: right;">Apr 2023 - Present</span> 
 </p>
-
+<br>
 - Researching and designing an interaction-aware prediction model for an end-to-end prediction-guided planning framework to improve the performance of planning of autonomous vehicle in highly interactive scenarios. The closed-loop simulation in Carla simulator will be carried out later to verify the effectiveness.
 
 ## QCraft (QingZhouZhiHang Technology Co. LTD)
