@@ -58,8 +58,11 @@ Worked on *Learning Consistency Pursued Correlation Filters for Real-Time UAV Tr
 # 🚗 Internships
 
 ## Horizon Robotics
-<div style="text-align: left;">Prediction Algorithm Intern - Platform Technology Department </div>
-<div style="text-align: right;">Apr 2023 - Present</div>
+
+<p>
+    <span style="float: left;">Prediction Algorithm Intern - Platform Technology Department</span>
+    <span style="float: right;">Apr 2023 - Present</span>
+</p>
 
 <!-- Prediction Algorithm Intern - Platform Technology Department          (Apr 2023 - Present -->
 
