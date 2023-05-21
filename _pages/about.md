@@ -17,42 +17,93 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently pursung my master degree candidate in the Department of Automation, SEIEE, Shanghai Jiao Tong University. I am part of the  [CyberC3 Intelligent Vehicle Lab](https://cyberc3.sjtu.edu.cn), led by [Prof. Ming Yang](https://cyberc3.sjtu.edu.cn/people.htm). 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+# 📖 Education
+- *2021.09 - 2024.03*, Shanghai Jiao Tong University
+  - Master of Engineering, Department of Automation; GPA: 3.56/4.00
+  - Laboratory: [CyberC3 Intelligent Vehicle Lab](https://cyberc3.sjtu.edu.cn); Supervisor: Prof. Ming Yang
+- *2017.09 - 2021.06*, Tongji University
+  - Bachelor of Engineering, Department of Automation; GPA: 4.74/5.00, Ranking: 5/105
+  - Laboratory: [Vision4robotics Lab](https://vision4robotics.github.io/); Supervisor: Prof. Changhong Fu
+
+# 📝 Publications
+- *[BAANet: Learning Bi-directional Adaptive Attention Gates for Multispectral Pedestrian Detection](https://ieeexplore.ieee.org/abstract/document/9811999),* **X. Yang**, Y. Qian, H. Zhu, C. Wang and M. Yang, **2022 International Conference on Robotics and Automation (ICRA)**, 2022
+- *[Learning Consistency Pursued Correlation Filters for Real-Time UAV Tracking](https://ieeexplore.ieee.org/document/9340954)*, C. Fu, **X. Yang**, F. Li, J. Xu, C. Liu and P. Lu, **2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**, 2020
+
+# 🔬 **Research Experience**
+
+### CyberC3 Intelligent Vehicle Lab (Oct 2020 - Oct 2021)
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/BAANet.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">  
+
+Advisor: Prof. Yang
+
+Worked on *BAANet: Learning Bi-directional Adaptive Attention Gates for Multispectral Pedestrian Detection* as the first author.
+
+- Proposed a novel multispectral pedestrian detector called BAANet. With the proposed BAA-Gate, the network could distill and recalibrate features of two modalities by stages and enhance the discriminability of fused representations.
+- Introduced an adaptive interaction strategy based on illumination weighting to adaptively control the recalibration and aggregation strength between modalities and adjust their contributions to the final detection results.
+- Conducted experiments and showed the competitive performance of the BAANet in terms of robustness and accuracy.
+
+ 
+
+## Vision4Robotics Lab (Oct 2019 - Oct 2020)
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/CPCF.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">  
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+Advisor: Prof. Fu
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+Worked on *Learning Consistency Pursued Correlation Filters for Real-Time UAV Tracking* as the second author.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- Proposed to pursue consistency of correlation filters across frames, which exploited rich temporal information in response maps and boosted the accuracy and robustness in the UAV tracking process.
+- Introduced a dynamic constraint strategy to set up an adaptive restriction on the consistency level. Based on the quality of the previous response map, the dynamic constraint can adaptively adjust a suitable consistency level and further increases the flexibility to cope with object appearance changes in UAV tracking.
+- Conducted experiments on challenging UAV datasets and demonstrated that the proposed tracker favorably surpasses the state-of-the-art trackers with real-time running speed (~43FPS) on a single CPU.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+ 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+# 🚗 **Industry Experience**
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+## Horizon Robotics
+**Prediction Algorithm Intern - Platform Technology Department          Apr 2023 - Present** 
+
+- Researching and designing an interaction-aware prediction model for an end-to-end prediction-guided planning framework to improve the performance of planning of autonomous vehicle in highly interactive scenarios. The closed-loop simulation in Carla simulator will be carried out later to verify the effectiveness.
+
+## QCraft (QingZhouZhiHang Technology Co. LTD)
+**Prediction Algorithm Intern - Planning and Control Department          Jan 2023 - Apr 2023** 
+
+- Designed and implemented a prediction model for cut-in scenes to solve the problem that the deployed main model does not predict the inconspicuous cut-in vehicles in time.
+- Proposed cutin-oriented features and transformer-based model for cut-in prediction task, conducted predictions in Frenet coordinate system, and improved the sensitivity and the robustness of prediction.
+- Deployed the prediction model on the Nvidia Orin platform, and its inference time is 4ms, with a precision of 0.93 and a recall of 0.84, effectively assisting the main prediction model and avoiding high-risk cut-in behaviors of other vehicles in advance.
+
+## Sensetime
+**Decision-making Algorithm Intern - SenseAuto / Planning and Control Department           Jan 2022- Nov 2022**
+
+- Optimization of VRU avoidance decision strategy
+  - The original decision strategy of VRU avoidance is overly conservative and easily leads to emergency braking. Optimized the avoidance rules according to traffic rules and VRU interaction logic and nearly doubles the MPI.
+- Rule-based and model-based abnormal parking vehicle reasoning
+  - The reasoning of abnormal parking vehicles is crucial for the detour decision performance of autonomous vehicles.
+  - Designed and implemented a rule-based reasoning module considering the static and dynamic environment, including agents history, maps, traffic lights, blind spots, etc. During the 700km road test, MPI for this issue increased from 70km to 150km. 
+  - Designed and implemented a model-based reasoning module due to the increasing difficulty of rule maintenance. Collected abnormal parking vehicle datasets by a rule-based trigger, designed abnormal parking vehicle features and trained on the random forest algorithm, and obtained the precision of abnormal vehicle reasoning as 0.95 and the recall of 0.85.
+
+## NIO
+
+**Perception Algorithm Intern - Autonomous Driving System / Platform Engineering Department          May 2021- Aug 2021**  
+
+- Participated in the design and implementation of the evaluation system for AVP (Automated Valet Parking)  perception algorithm, including the introduction of new metrics, scenario classification and test set construction.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.06*         Outstanding Graduate of Tongji University
+- *2017~2020*    Outstanding Student Scholarship of Tongji University
+- *2019.09*         3rd prize of Shanghai Competition area, National College Students Electronic Design Competition
+- *2019.08*         1st prize of the national Finals, the 14th annual NXP Cup Smart Car Competition
+- *2018.05*         1st prize of the VEX Robotics Asia Championship
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 📚 Academic Services
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- Reviewer for IEEE International Conference on Robotics and Automation (ICRA) 2023
+- Reviewer for IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2022-2023
