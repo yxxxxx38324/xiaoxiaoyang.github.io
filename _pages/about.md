@@ -37,6 +37,7 @@ I am currently pursuing my master's degree in the Department of Automation, SEIE
 <div class='paper-box'><div class='paper-box-image'><img src='images/BAANet.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">  
 Advisor: Prof. Yang
+
 Worked on *BAANet: Learning Bi-directional Adaptive Attention Gates for Multispectral Pedestrian Detection* as the first author. (Oct 2020 - Oct 2021)
 - Proposed a novel multispectral pedestrian detector, i.e., BAANet,to distill and recalibrate features of two modalities by stages and enhance the discriminability of fused representations.
 - Introduced an adaptive interaction strategy based on illumination weighting to adaptively control the recalibration and aggregation strength between modalities and adjust their contributions to the final detection results.
@@ -47,6 +48,7 @@ Worked on *BAANet: Learning Bi-directional Adaptive Attention Gates for Multispe
 <div class='paper-box'><div class='paper-box-image'><img src='images/CPCF.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">  
 Advisor: Prof. Fu
+
 Worked on *Learning Consistency Pursued Correlation Filters for Real-Time UAV Tracking* as the second author. (Oct 2019 - Oct 2020)
 - Proposed to pursue consistency of correlation filters across frames, which exploited rich temporal information in response maps and boosted the accuracy and robustness in the UAV tracking process.
 - Introduced a dynamic constraint strategy to set up an adaptive restriction on the consistency level. Based on the quality of the previous response map, the dynamic constraint can adaptively adjust a suitable consistency level and further increases the flexibility to cope with object appearance changes in UAV tracking.
@@ -59,12 +61,12 @@ Worked on *Learning Consistency Pursued Correlation Filters for Real-Time UAV Tr
 
 ## Horizon Robotics
 
-<p>
-    <span style="float: left;">Prediction Algorithm Intern - Platform Technology Department</span>
-    <span style="float: right;">Apr 2023 - Present</span>
-</p>
-
-<!-- Prediction Algorithm Intern - Platform Technology Department          (Apr 2023 - Present -->
+<table>
+  <tr>
+    <td style="text-align: left;">Prediction Algorithm Intern - Platform Technology Department</td>
+    <td style="text-align: right;">Apr 2023 - Present</td>
+  </tr>
+</table>
 
 - Researching and designing an interaction-aware prediction model for an end-to-end prediction-guided planning framework to improve the performance of planning of autonomous vehicle in highly interactive scenarios. The closed-loop simulation in Carla simulator will be carried out later to verify the effectiveness.
 
