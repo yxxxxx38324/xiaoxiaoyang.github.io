@@ -66,7 +66,7 @@ Worked on *Learning Consistency Pursued Correlation Filters for Real-Time UAV Tr
   <div>Apr 2023 - Present</div>
 </div>
 
-- 111Researching and designing an interaction-aware prediction model for an end-to-end prediction-guided planning framework to improve the performance of planning of autonomous vehicle in highly interactive scenarios. The closed-loop simulation in Carla simulator will be carried out later to verify the effectiveness.
+- Researching and designing an interaction-aware prediction model for an end-to-end prediction-guided planning framework to improve the performance of planning of autonomous vehicle in highly interactive scenarios. The closed-loop simulation in Carla simulator will be carried out later to verify the effectiveness.
 
 ## QCraft (QingZhouZhiHang Technology Co. LTD)
 
